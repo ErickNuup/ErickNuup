@@ -32,7 +32,7 @@ I work at the intersection of **software engineering**, **data**, and **digital 
 ## Tech stack
 
 <!-- LANGUAGES:START -->
-`TypeScript` · `React` · `React Native` · `Expo` · `Laravel` · `.NET` · `Node.js` · `SQL` · `Docker` · `GitHub Actions` · `AI`
+Svelte · CSS
 <!-- LANGUAGES:END -->
 
 ## Featured projects
