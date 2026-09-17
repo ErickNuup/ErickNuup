@@ -4,12 +4,6 @@ Software engineer building practical digital solutions for agriculture, data sys
 
 I work at the intersection of **software engineering**, **data**, and **digital agriculture**, creating robust tools that are useful in the real world: reliable, maintainable, and designed for day-to-day operations.
 
-<div align="center">
-
-<img src="https://github.com/ErickNuup.png?size=160" alt="Erick Costa profile avatar" width="160" />
-
-</div>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Role-Software%20Engineer-0A66C2?style=for-the-badge" alt="Role badge" />
   <img src="https://img.shields.io/badge/Focus-Digital%20Agriculture-22c55e?style=for-the-badge" alt="Focus badge" />
